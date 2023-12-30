@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/13-Spring Cloud.iml" filepath="$PROJECT_DIR$/.idea/13-Spring Cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-PaymentService/PaymentService.iml" filepath="$PROJECT_DIR$/02-PaymentService/PaymentService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Shopper-Service/app.iml" filepath="$PROJECT_DIR$/03-Shopper-Service/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-EurekaServer/demo.iml" filepath="$PROJECT_DIR$/1-EurekaServer/demo.iml" />
+    </modules>
+  </component>
+</project>
